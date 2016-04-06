@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <myMovies>
+<moviesDirectory>/Users/christos/Desktop/_t1</moviesDirectory>
+<moviesCounter>2</moviesCounter>
+	<movie number="1">
+		<title>Zeitgeist</title>
+		<year>2007</year>
+		<genre>Documentary, History</genre>
+		<director>Peter Joseph</director>
+		<writer>Peter Joseph</writer>
+		<actors>Chogyam Trungpa, Jordan Maxwell, George Carlin, Bill Hicks</actors>
+		<plot>Mythology and belief in society today, presenting uncommon perspectives of common cultural issues.</plot>
+		<poster>http://ia.media-imdb.com/images/M/MV5BMjEzMDIzNzM2MF5BMl5BanBnXkFtZTcwNDM5OTk1MQ@@._V1_SX300.jpg</poster>
+		<runtime>118 min</runtime>
+		<rating>8.3</rating>
+		<id>tt1166827</id>
+	</movie>
+	<movie number="2">
+		<title>Zodiac</title>
+		<year>2007</year>
+		<genre>Crime, Drama, History</genre>
+		<director>David Fincher</director>
+		<writer>James Vanderbilt (screenplay), Robert Graysmith (book)</writer>
+		<actors>Jake Gyllenhaal, Mark Ruffalo, Anthony Edwards, Robert Downey Jr.</actors>
+		<plot>A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac killer.</plot>
+		<poster>http://ia.media-imdb.com/images/M/MV5BMTQxNjc2NzAwNF5BMl5BanBnXkFtZTcwMDg3NzMzMw@@._V1_SX300.jpg</poster>
+		<runtime>157 min</runtime>
+		<rating>7.7</rating>
+		<id>tt0443706</id>
+	</movie>
+</myMovies>
